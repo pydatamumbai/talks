@@ -1,0 +1,7 @@
+jupyterlab
+tpot
+requests
+tabulate
+scikit-mdr
+colorama>=0.3.8
+future
